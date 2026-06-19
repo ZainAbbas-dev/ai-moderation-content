@@ -94,6 +94,7 @@ AI Content Moderator follows a decoupled **Client-Server** architecture optimize
 |---|---|
 | **Frontend** | React, Vite, Tailwind CSS, Axios |
 | **Backend** | FastAPI (Python), Uvicorn |
+| **Containerization** | Docker, Docker Compose |
 | **Database** | MongoDB |
 | **AI/ML** | Google Gemini API (Vision) |
 | **Authentication** | JWT, Bcrypt |
